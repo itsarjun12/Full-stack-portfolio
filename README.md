@@ -1,3 +1,3 @@
 # Full-stack-portfolio
-I developed this in Crio winter of doing program. it's a basically full stack website which is backed by heroku app.
-portfolio- https://the-awesome-arjun-site.netlify.app/
+I developed this site in Crio winter of doing program 2021. It's a basically full stack website that is backend by Heroku app.
+[Portfolio]https://the-awesome-arjun-site.netlify.app/
